@@ -40,13 +40,6 @@ npm run test:e2e-api
 npm run lint
 ```
 
-### Setting up a dev environment
-
-Build the API binary
-```
-GOARCH=386 go build -o mux-api src/server/main.go
-```
-
 ### Build the container 
 
 ```
