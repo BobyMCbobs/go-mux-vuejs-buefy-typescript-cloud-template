@@ -1,5 +1,5 @@
 <template>
-  <h1>API says: {{ apiMsg }}</h1>
+  <h3>API says: {{ apiMsg }}</h3>
 </template>
 
 <script lang="ts">

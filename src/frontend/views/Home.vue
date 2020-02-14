@@ -8,7 +8,8 @@
             go :heart: vuejs
           </h1>
           <h2 class="subtitle is-3">
-            A cloud-ready {golang, mux} backend + {vuejs, buefy, typescript} frontend
+            A cloud-ready {<a href="http://golang.org/"> golang </a>, <a href="http://www.gorillatoolkit.org/pkg/mux"> mux </a>} backend + {<a href="https://vuejs.org/"> vuejs </a>, <a href="https://buefy.org/"> buefy </a>, <a href="https://www.typescriptlang.org/"> typescript </a>} frontend
+           <br/>
            <br/>
            <hello></hello>
           </h2>

@@ -15,6 +15,6 @@ selenium-debug.log
 *.njsproj
 *.sln
 
-./dist
+dist
 .env
-./mux-api
+mux-api
